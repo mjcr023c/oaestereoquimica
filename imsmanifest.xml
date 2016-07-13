@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is a Reload version 2.5.5 SCORM 1.2 Content Package document-->
+<!--Spawned from the Reload Content Package Generator - http://www.reload.ac.uk-->
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="OA_Estereoquimica" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd" version="final">
+  <metadata>
+    <schemaversion>1.0</schemaversion>
+    <imsmd:lom>
+      <imsmd:general>
+        <imsmd:identifier>OA_Estereoquímica</imsmd:identifier>
+        <imsmd:title>
+          <imsmd:langstring xml:lang="en">Proyecciones de Estereoquímica</imsmd:langstring>
+        </imsmd:title>
+        <imsmd:language>es</imsmd:language>
+        <imsmd:description>
+          <imsmd:langstring xml:lang="en">Objetivo:Describir, Ejemplificar y Construir las Proyecciones de Estereoquímica.</imsmd:langstring>
+        </imsmd:description>
+        <imsmd:keyword>
+          <imsmd:langstring xml:lang="en">Estereoquímica, Química Organica, Proyecciones de Estereoquímica</imsmd:langstring>
+        </imsmd:keyword>
+        <imsmd:structure>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Hierarchical</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:structure>
+      </imsmd:general>
+      <imsmd:lifecycle>
+        <imsmd:version>
+          <imsmd:langstring xml:lang="en">1.0</imsmd:langstring>
+        </imsmd:version>
+        <imsmd:status>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Final</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:status>
+        <imsmd:contribute>
+          <imsmd:role>
+            <imsmd:source>
+              <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+            </imsmd:source>
+            <imsmd:value>
+              <imsmd:langstring xml:lang="en">Author</imsmd:langstring>
+            </imsmd:value>
+          </imsmd:role>
+          <imsmd:centity>
+            <imsmd:vcard>Martin Corrales</imsmd:vcard>
+          </imsmd:centity>
+          <imsmd:date>
+            <imsmd:datetime>Julio2008</imsmd:datetime>
+          </imsmd:date>
+        </imsmd:contribute>
+      </imsmd:lifecycle>
+      <imsmd:metametadata>
+        <imsmd:contribute>
+          <imsmd:role>
+            <imsmd:source>
+              <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+            </imsmd:source>
+            <imsmd:value>
+              <imsmd:langstring xml:lang="en">Validator</imsmd:langstring>
+            </imsmd:value>
+          </imsmd:role>
+          <imsmd:centity>
+            <imsmd:vcard>Yosly Hernandez y Samuel Villanueva</imsmd:vcard>
+          </imsmd:centity>
+          <imsmd:date>
+            <imsmd:datetime>Julio2008</imsmd:datetime>
+          </imsmd:date>
+        </imsmd:contribute>
+        <imsmd:language>es</imsmd:language>
+      </imsmd:metametadata>
+      <imsmd:technical>
+        <imsmd:format>application/x-shockwave-flash</imsmd:format>
+        <imsmd:size>2</imsmd:size>
+        <imsmd:location>http://ambar.ciens.ucv.ve:8080/estereoquimica/</imsmd:location>
+        <imsmd:requirement>
+          <imsmd:type>
+            <imsmd:source>
+              <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+            </imsmd:source>
+            <imsmd:value>
+              <imsmd:langstring xml:lang="en">Browser</imsmd:langstring>
+            </imsmd:value>
+          </imsmd:type>
+          <imsmd:minimumversion>IE7.0 MozillaFireFox</imsmd:minimumversion>
+        </imsmd:requirement>
+        <imsmd:installationremarks>
+          <imsmd:langstring xml:lang="en" />
+        </imsmd:installationremarks>
+        <imsmd:otherplatformrequirements>
+          <imsmd:langstring xml:lang="en">poseer flash player 10</imsmd:langstring>
+        </imsmd:otherplatformrequirements>
+      </imsmd:technical>
+      <imsmd:educational>
+        <imsmd:interactivitytype>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Expositive</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:interactivitytype>
+        <imsmd:learningresourcetype>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Exercise</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:learningresourcetype>
+        <imsmd:interactivitylevel>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">medium</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:interactivitylevel>
+        <imsmd:semanticdensity>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">medium</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:semanticdensity>
+        <imsmd:intendedenduserrole>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Learner</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:intendedenduserrole>
+        <imsmd:context>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">Universitario</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:context>
+        <imsmd:typicalagerange>
+          <imsmd:langstring xml:lang="en">16años en adelante</imsmd:langstring>
+        </imsmd:typicalagerange>
+        <imsmd:difficulty>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">medium</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:difficulty>
+        <imsmd:typicallearningtime>
+          <imsmd:datetime>3horas</imsmd:datetime>
+        </imsmd:typicallearningtime>
+        <imsmd:description>
+          <imsmd:langstring xml:lang="en">3horas leyendo con detenimiento el contenido y realizando todas las actividades</imsmd:langstring>
+        </imsmd:description>
+        <imsmd:language>es</imsmd:language>
+      </imsmd:educational>
+      <imsmd:rights>
+        <imsmd:cost>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">no</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:cost>
+        <imsmd:copyrightandotherrestrictions>
+          <imsmd:source>
+            <imsmd:langstring xml:lang="en">LOMv1.0</imsmd:langstring>
+          </imsmd:source>
+          <imsmd:value>
+            <imsmd:langstring xml:lang="en">yes</imsmd:langstring>
+          </imsmd:value>
+        </imsmd:copyrightandotherrestrictions>
+        <imsmd:description>
+          <imsmd:langstring xml:lang="en">Realizado por Martin Corrales , Samuel Villanueva y Yosly Hernandez</imsmd:langstring>
+        </imsmd:description>
+      </imsmd:rights>
+    </imsmd:lom>
+  </metadata>
+  <organizations default="ORG-CFD87CC6499E4D8DFCBDBFF97ABEF76B">
+    <organization identifier="ORG-CFD87CC6499E4D8DFCBDBFF97ABEF76B" structure="hierarchical">
+      <title>Cronologia</title>
+      <item identifier="ITEM-AFC545A9C355DD40CFB1289EB1A4622E" isvisible="true" identifierref="RES-3748934DF6D398628F4557FB892E4596">
+        <title>Principal</title>
+      </item>
+      <item identifier="ITEM-9C8050803C12972866A718585899405B" isvisible="true" identifierref="RES-A5A2F409F67D8B23685BC546B5A38B36">
+        <title>Contenido</title>
+      </item>
+      <item identifier="ITEM-FAD7EB23E892EA92C71983F79376A724" isvisible="true" identifierref="RES-49399B4C46F5488A77BABFA9C5FE5C21">
+        <title>La Estereoquímica</title>
+      </item>
+      <item identifier="ITEM-210C363C0557DABF2D70A9A6316FC785" isvisible="true" identifierref="RES-E56C8B3F5698D6A8513F88631EFF8EAB">
+        <title>Proyecciones de Estereoquímica</title>
+      </item>
+      <item identifier="ITEM-89F585A303259F0C32A4DC198E852798" isvisible="true" identifierref="RES-5AA8A89C2475E63A9C757F344E2A831E">
+        <title>Proyección de Caballete</title>
+        <item identifier="ITEM-042409E3ED2B06F314ADDFFBDB015335" isvisible="true" identifierref="RES-0F5A723196F60E0A4DEB39576D93360A">
+          <title>Práctica Proyección de Caballete</title>
+        </item>
+        <item identifier="ITEM-F3DBE047D765A8A9D30F26FC3D06B9EF" isvisible="true" identifierref="RES-E236F503943092F8C14F419029421518">
+          <title>Ejercicio Proyección de Caballete</title>
+        </item>
+      </item>
+      <item identifier="ITEM-37477C10A9905AC17EC9E15A6C9A4660" isvisible="true" identifierref="RES-B9B7317FB0EA5701595F30EDAFF0F455">
+        <title>Proyección de Cuña</title>
+        <item identifier="ITEM-F61C64E421666D7097B1154D73CA5715" isvisible="true" identifierref="RES-7B43AD57D020D130156F0489FF8B9D00">
+          <title>Práctica Proyección de Cuña</title>
+        </item>
+        <item identifier="ITEM-EFDE9A5D7BD2A9778ADEFFD40F3755C0" isvisible="true" identifierref="RES-65E34BD54001261317A16E05713D7566">
+          <title>Ejercicio Proyección de Cuña</title>
+        </item>
+      </item>
+      <item identifier="ITEM-EF11D3B5D9C25F85E0FCC1E4F95BC9B4" isvisible="true" identifierref="RES-520A37B48BEF57097A5AF951643E8A32">
+        <title>Proyección de Newman</title>
+        <item identifier="ITEM-C08C48C5B40058321C547D82DA53E76B" isvisible="true" identifierref="RES-DA4E1B363D121AD063AA05FA5BF00387">
+          <title>Práctica Proyección de Newman</title>
+        </item>
+        <item identifier="ITEM-1735FCB430E362B8160347DC797FCB02" isvisible="true" identifierref="RES-F6FA0F52285C8687AFD78D8186A09B75">
+          <title>Ejercicio Proyección de Newman</title>
+        </item>
+      </item>
+      <item identifier="ITEM-F697C3311F38A3781E5A31959AA26EC0" isvisible="true" identifierref="RES-92015060B45E185C5DBE005805AEAC7D">
+        <title>Enlaces de Interés</title>
+      </item>
+      <item identifier="ITEM-72FA52DBC21982BE1BDE228C89234505" isvisible="true" identifierref="RES-E3FB2514AD488A6B55CB9B5199BA567F">
+        <title>Importancia en la Medicina</title>
+      </item>
+      <item identifier="ITEM-33DC2844391202748CA3979C92E05717" isvisible="true" identifierref="RES-9F3B193355A2322642FED31ABEC4BC47">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-3748934DF6D398628F4557FB892E4596" type="webcontent" href="index.html">
+      <file href="index.html" />
+      <file href="animaciones/animacion.swf" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-A5A2F409F67D8B23685BC546B5A38B36" type="webcontent" href="presentacion.html">
+      <file href="presentacion.html" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/presentacion.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-49399B4C46F5488A77BABFA9C5FE5C21" type="webcontent" href="estereoquimica.html">
+      <file href="estereoquimica.html" />
+      <file href="animaciones/estereoquimica.swf" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-E56C8B3F5698D6A8513F88631EFF8EAB" type="webcontent" href="proyecciones.html">
+      <file href="proyecciones.html" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/proyecciones.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-5AA8A89C2475E63A9C757F344E2A831E" type="webcontent" href="caballete.html">
+      <file href="caballete.html" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/proyeccioncaballete.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-B9B7317FB0EA5701595F30EDAFF0F455" type="webcontent" href="cuna.html">
+      <file href="cuna.html" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/proyecciondecuna.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-520A37B48BEF57097A5AF951643E8A32" type="webcontent" href="newman.html">
+      <file href="newman.html" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/proyeccionnewman.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-92015060B45E185C5DBE005805AEAC7D" type="webcontent" href="enlaces.html">
+      <file href="enlaces.html" />
+      <file href="animaciones/enlaces.swf" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-E3FB2514AD488A6B55CB9B5199BA567F" type="webcontent" href="importancia.html">
+      <file href="importancia.html" />
+      <file href="animaciones/iemedicina.swf" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-9F3B193355A2322642FED31ABEC4BC47" type="webcontent" href="creditos.html">
+      <file href="creditos.html" />
+      <file href="animaciones/creditos.swf" />
+      <file href="animaciones/menu.swf" />
+      <file href="animaciones/topepasantia.swf" />
+      <file href="Images/inferior.gif" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+      <file href="style/style.css" />
+    </resource>
+    <resource identifier="RES-0F5A723196F60E0A4DEB39576D93360A" type="webcontent" href="pcaballete.html">
+      <file href="pcaballete.html" />
+      <file href="animaciones/practicacaballete.swf" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+    </resource>
+    <resource identifier="RES-7B43AD57D020D130156F0489FF8B9D00" type="webcontent" href="pcuna.html">
+      <file href="pcuna.html" />
+      <file href="animaciones/practicadecuna.swf" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+    </resource>
+    <resource identifier="RES-DA4E1B363D121AD063AA05FA5BF00387" type="webcontent" href="pnewman.html">
+      <file href="pnewman.html" />
+      <file href="animaciones/practicanewman.swf" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+    </resource>
+    <resource identifier="RES-E236F503943092F8C14F419029421518" type="webcontent" href="ecaballete.html">
+      <file href="ecaballete.html" />
+      <file href="animaciones/autoevalproyeccioncaballete.swf" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+    </resource>
+    <resource identifier="RES-65E34BD54001261317A16E05713D7566" type="webcontent" href="ecuna.html">
+      <file href="ecuna.html" />
+      <file href="animaciones/autoevalproyecciondecuna.swf" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+    </resource>
+    <resource identifier="RES-F6FA0F52285C8687AFD78D8186A09B75" type="webcontent" href="enewman.html">
+      <file href="enewman.html" />
+      <file href="animaciones/autoevalproyeccionnewman.swf" />
+      <file href="Scripts/AC_RunActiveContent.js" />
+    </resource>
+  </resources>
+</manifest>
+

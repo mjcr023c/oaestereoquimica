@@ -1,0 +1,44 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: Verdana,Helvetica, Arial, sans-serif;
+	color: #006600;
+}
+
+body{
+	background: #00853c;
+}
+
+#pagina{
+	background: #FFF;
+	margin: 5px 10% 0px 10%;
+	border: 4px solid #00853c;
+	border-style:ridge;
+	/*padding-top:1em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;*/
+}
+
+/*#cabecera{
+	width: 1022px;
+	height: 135px;
+}*/
+
+#menu{
+	width: 20.5%;
+	height: 500px;
+	float:left;
+}
+#contenido{
+	width: 79.5%;
+	height: 500px;
+	float:left;
+	
+
+}
+/*
+#pie{
+	width: 1022px;
+	height: 35px;
+	background-image:url(../Images/inferior.gif)
+}*/
