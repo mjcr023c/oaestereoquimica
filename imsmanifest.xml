@@ -77,7 +77,7 @@
       <imsmd:technical>
         <imsmd:format>application/x-shockwave-flash</imsmd:format>
         <imsmd:size>2</imsmd:size>
-        <imsmd:location>http://ambar.ciens.ucv.ve:8080/estereoquimica/</imsmd:location>
+        <imsmd:location>mjcr023c.github.io/oaestereoquimica/</imsmd:location>
         <imsmd:requirement>
           <imsmd:type>
             <imsmd:source>
